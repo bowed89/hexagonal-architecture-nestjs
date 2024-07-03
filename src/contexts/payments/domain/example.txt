@@ -1,0 +1,14 @@
+aca se tiene las:
+entidades
+value objects
+acceso a Bd, las interfaces o clases abstractas
+eventos
+excepciones
+
+
+
+payment.repository.ts
+---------------------
+contiene la inferfaz de como luego nosotros estaremos
+accediendo a bd para estare creando nuevos pagos o
+estar recuperandolos

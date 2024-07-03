@@ -1,0 +1,2 @@
+podria resolver varios problemas como ser sistemas d pagos, 
+autentificacion, o tener sesiones, y cada uno d estos componentes se pondria aca.
